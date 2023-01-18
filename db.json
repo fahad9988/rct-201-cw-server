@@ -29,7 +29,8 @@
       ],
       "rating": "3.7",
       "rating_count": "13.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Joggers"
     },
     {
       "id": 388,
@@ -61,7 +62,8 @@
       ],
       "rating": "4.1",
       "rating_count": "25.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 389,
@@ -91,7 +93,8 @@
       ],
       "rating": "4.1",
       "rating_count": "8.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 390,
@@ -123,7 +126,8 @@
       ],
       "rating": "4.2",
       "rating_count": "5.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Chinos"
     },
     {
       "id": 2,
@@ -152,7 +156,8 @@
       ],
       "rating": "4.1",
       "rating_count": "12.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Chinos"
     },
     {
       "id": 3,
@@ -184,7 +189,8 @@
       ],
       "rating": "3.8",
       "rating_count": "6.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 4,
@@ -214,7 +220,8 @@
       ],
       "rating": "3.8",
       "rating_count": "9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 5,
@@ -243,7 +250,8 @@
       ],
       "rating": "4.1",
       "rating_count": "5.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 6,
@@ -273,7 +281,8 @@
       ],
       "rating": "4.1",
       "rating_count": "13.1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 7,
@@ -304,7 +313,8 @@
       ],
       "rating": "4.3",
       "rating_count": "34.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 8,
@@ -333,7 +343,8 @@
       ],
       "rating": "4.7",
       "rating_count": "55",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Joggers"
     },
     {
       "id": 9,
@@ -363,7 +374,8 @@
       ],
       "rating": "3.9",
       "rating_count": "700",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 10,
@@ -398,7 +410,8 @@
       ],
       "rating": "4.3",
       "rating_count": "563",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 11,
@@ -428,7 +441,8 @@
       ],
       "rating": "3",
       "rating_count": "1.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 12,
@@ -461,7 +475,8 @@
       ],
       "rating": "4.2",
       "rating_count": "7.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 13,
@@ -492,7 +507,8 @@
       ],
       "rating": "4.2",
       "rating_count": "3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 14,
@@ -524,7 +540,8 @@
       ],
       "rating": "3.6",
       "rating_count": "6.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 15,
@@ -554,7 +571,8 @@
       ],
       "rating": "4.1",
       "rating_count": "10",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 16,
@@ -583,7 +601,8 @@
       ],
       "rating": "4.2",
       "rating_count": "6.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 17,
@@ -613,7 +632,8 @@
       ],
       "rating": "4.2",
       "rating_count": "8.1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 18,
@@ -645,7 +665,8 @@
       ],
       "rating": "3.7",
       "rating_count": "2.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 19,
@@ -676,7 +697,8 @@
       ],
       "rating": "4.4",
       "rating_count": "1.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 20,
@@ -707,7 +729,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 21,
@@ -737,7 +760,8 @@
       ],
       "rating": "3.9",
       "rating_count": "11k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 22,
@@ -769,7 +793,8 @@
       ],
       "rating": "3.8",
       "rating_count": "2.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 23,
@@ -799,7 +824,8 @@
       ],
       "rating": "4.4",
       "rating_count": "5.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 24,
@@ -831,7 +857,8 @@
       ],
       "rating": "3.8",
       "rating_count": "5.1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 25,
@@ -862,7 +889,8 @@
       ],
       "rating": "4.3",
       "rating_count": "80",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 26,
@@ -891,7 +919,8 @@
       ],
       "rating": "4",
       "rating_count": "1.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 27,
@@ -920,7 +949,8 @@
       ],
       "rating": "4.9",
       "rating_count": "23",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 28,
@@ -949,7 +979,8 @@
       ],
       "rating": "4",
       "rating_count": "7.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 29,
@@ -979,7 +1010,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 30,
@@ -1008,7 +1040,8 @@
       ],
       "rating": "4.3",
       "rating_count": "4.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 31,
@@ -1040,7 +1073,8 @@
       ],
       "rating": "4",
       "rating_count": "2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 32,
@@ -1070,7 +1104,8 @@
       ],
       "rating": "3.9",
       "rating_count": "9.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 33,
@@ -1099,7 +1134,8 @@
       ],
       "rating": "4.2",
       "rating_count": "9",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Trousers"
     },
     {
       "id": 34,
@@ -1128,7 +1164,8 @@
       ],
       "rating": "4",
       "rating_count": "10k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 35,
@@ -1159,7 +1196,8 @@
       ],
       "rating": "3.3",
       "rating_count": "3",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 36,
@@ -1190,7 +1228,8 @@
       ],
       "rating": "4.2",
       "rating_count": "4.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 37,
@@ -1221,7 +1260,8 @@
       ],
       "rating": "3.6",
       "rating_count": "1.5k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 38,
@@ -1251,7 +1291,8 @@
       ],
       "rating": "4.3",
       "rating_count": "13.5k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 39,
@@ -1281,7 +1322,8 @@
       ],
       "rating": "4.3",
       "rating_count": "15.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 40,
@@ -1314,7 +1356,8 @@
       ],
       "rating": "4.1",
       "rating_count": "8.7k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 41,
@@ -1346,7 +1389,8 @@
       ],
       "rating": "3.8",
       "rating_count": "4.9k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 42,
@@ -1377,7 +1421,8 @@
       ],
       "rating": "4.4",
       "rating_count": "2.7k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 43,
@@ -1407,7 +1452,8 @@
       ],
       "rating": "3.8",
       "rating_count": "7.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 44,
@@ -1436,7 +1482,8 @@
       ],
       "rating": "4.3",
       "rating_count": "1.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 45,
@@ -1465,7 +1512,8 @@
       ],
       "rating": "3.9",
       "rating_count": "2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 46,
@@ -1496,7 +1544,8 @@
       ],
       "rating": "4",
       "rating_count": "3k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 47,
@@ -1526,7 +1575,8 @@
       ],
       "rating": "3.9",
       "rating_count": "2.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Joggers"
     },
     {
       "id": 53,
@@ -1557,7 +1607,8 @@
       ],
       "rating": "3.9",
       "rating_count": "2.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Joggers"
     },
     {
       "id": 54,
@@ -1588,7 +1639,8 @@
       ],
       "rating": "3.8",
       "rating_count": "5.9k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 55,
@@ -1621,7 +1673,8 @@
       ],
       "rating": "3.8",
       "rating_count": "2.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 56,
@@ -1651,7 +1704,8 @@
       ],
       "rating": "4.3",
       "rating_count": "4.9k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 57,
@@ -1683,7 +1737,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.6k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 58,
@@ -1707,7 +1762,8 @@
       ],
       "rating": "4.1",
       "rating_count": "2.2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 59,
@@ -1738,7 +1794,8 @@
       ],
       "rating": "4.4",
       "rating_count": "11.3k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 60,
@@ -1774,7 +1831,8 @@
       ],
       "rating": "4.2",
       "rating_count": "130",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 61,
@@ -1805,7 +1863,8 @@
       ],
       "rating": "4.2",
       "rating_count": "9.6k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 62,
@@ -1836,7 +1895,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.9k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Trousers"
     },
     {
       "id": 63,
@@ -1866,7 +1926,8 @@
       ],
       "rating": "4.2",
       "rating_count": "1.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 64,
@@ -1899,7 +1960,8 @@
       ],
       "rating": "3.6",
       "rating_count": "1.7k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 65,
@@ -1930,7 +1992,8 @@
       ],
       "rating": "4.1",
       "rating_count": "4.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 66,
@@ -1963,7 +2026,8 @@
       ],
       "rating": "4.4",
       "rating_count": "5.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 67,
@@ -1994,7 +2058,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 68,
@@ -2025,7 +2090,8 @@
       ],
       "rating": "4.3",
       "rating_count": "4.2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 69,
@@ -2058,7 +2124,8 @@
       ],
       "rating": "3.3",
       "rating_count": "1.2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 70,
@@ -2090,7 +2157,8 @@
       ],
       "rating": "4.3",
       "rating_count": "7",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 71,
@@ -2121,7 +2189,8 @@
       ],
       "rating": "4.4",
       "rating_count": "2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 72,
@@ -2154,7 +2223,8 @@
       ],
       "rating": "4.4",
       "rating_count": "109",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 74,
@@ -2188,7 +2258,8 @@
       ],
       "rating": "4",
       "rating_count": "21.2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 75,
@@ -2219,7 +2290,8 @@
       ],
       "rating": "4.3",
       "rating_count": "11.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 76,
@@ -2249,7 +2321,8 @@
       ],
       "rating": "4.1",
       "rating_count": "1.9k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 77,
@@ -2279,7 +2352,8 @@
       ],
       "rating": "4.7",
       "rating_count": "17",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 78,
@@ -2310,7 +2384,8 @@
       ],
       "rating": "4.2",
       "rating_count": "90",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 79,
@@ -2343,7 +2418,8 @@
       ],
       "rating": "4.4",
       "rating_count": "1.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 80,
@@ -2373,7 +2449,8 @@
       ],
       "rating": "4",
       "rating_count": "616",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 81,
@@ -2404,7 +2481,8 @@
       ],
       "rating": "4.1",
       "rating_count": "11k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Joggers"
     },
     {
       "id": 82,
@@ -2435,7 +2513,8 @@
       ],
       "rating": "4.1",
       "rating_count": "214",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 83,
@@ -2469,7 +2548,8 @@
       ],
       "rating": "4",
       "rating_count": "6.5k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 84,
@@ -2501,7 +2581,8 @@
       ],
       "rating": "4.5",
       "rating_count": "1.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 85,
@@ -2533,7 +2614,8 @@
       ],
       "rating": "4.4",
       "rating_count": "53",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 86,
@@ -2565,7 +2647,8 @@
       ],
       "rating": "4.5",
       "rating_count": "182",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 87,
@@ -2596,7 +2679,8 @@
       ],
       "rating": "3.7",
       "rating_count": "23.8k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 88,
@@ -2628,7 +2712,8 @@
       ],
       "rating": "4",
       "rating_count": "1.3k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 89,
@@ -2659,7 +2744,8 @@
       ],
       "rating": "4.4",
       "rating_count": "1.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 90,
@@ -2691,7 +2777,8 @@
       ],
       "rating": "4.7",
       "rating_count": "32",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Joggers"
     },
     {
       "id": 91,
@@ -2722,7 +2809,8 @@
       ],
       "rating": "3.8",
       "rating_count": "670",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 92,
@@ -2752,7 +2840,8 @@
       ],
       "rating": "4.3",
       "rating_count": "1.5k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 93,
@@ -2782,7 +2871,8 @@
       ],
       "rating": "4.8",
       "rating_count": "5",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 94,
@@ -2816,7 +2906,8 @@
       ],
       "rating": "4.2",
       "rating_count": "5.6k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 95,
@@ -2846,7 +2937,8 @@
       ],
       "rating": "4.2",
       "rating_count": "1.3k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     },
     {
       "id": 96,
@@ -2879,7 +2971,8 @@
       ],
       "rating": "3.7",
       "rating_count": "405",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 97,
@@ -2909,7 +3002,8 @@
       ],
       "rating": "3.9",
       "rating_count": "1.4k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 98,
@@ -2939,7 +3033,8 @@
       ],
       "rating": "3.9",
       "rating_count": "340",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 99,
@@ -2971,7 +3066,8 @@
       ],
       "rating": "4",
       "rating_count": "8.1k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 100,
@@ -3001,7 +3097,8 @@
       ],
       "rating": "3.9",
       "rating_count": "1.5k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 101,
@@ -3032,7 +3129,8 @@
       ],
       "rating": "4.3",
       "rating_count": "10.2k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Casual Shirt"
     },
     {
       "id": 102,
@@ -3064,7 +3162,8 @@
       ],
       "rating": "4.2",
       "rating_count": "33",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "Jeans"
     },
     {
       "id": 103,
@@ -3094,7 +3193,8 @@
       ],
       "rating": "3.7",
       "rating_count": "17k",
-      "quantity": "1"
+      "quantity": "1",
+      "myStyle": "any"
     }
   ],
   "womens": [
