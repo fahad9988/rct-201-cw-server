@@ -3226,7 +3226,8 @@
       ],
       "rating": "4.1",
       "rating_count": "1.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 110,
@@ -3256,7 +3257,8 @@
       ],
       "rating": "4.4",
       "rating_count": "5.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 111,
@@ -3289,7 +3291,8 @@
       ],
       "rating": "4.2",
       "rating_count": "1.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 112,
@@ -3320,7 +3323,8 @@
       ],
       "rating": "4.3",
       "rating_count": "3.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 113,
@@ -3353,7 +3357,8 @@
       ],
       "rating": "4.2",
       "rating_count": "865",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 114,
@@ -3383,7 +3388,8 @@
       ],
       "rating": "4.4",
       "rating_count": "1.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 115,
@@ -3413,7 +3419,8 @@
       ],
       "rating": "4.1",
       "rating_count": "2.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 116,
@@ -3446,7 +3453,8 @@
       ],
       "rating": "4.3",
       "rating_count": "7.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 117,
@@ -3479,7 +3487,8 @@
       ],
       "rating": "4",
       "rating_count": "229",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 118,
@@ -3509,7 +3518,8 @@
       ],
       "rating": null,
       "rating_count": null,
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 119,
@@ -3540,7 +3550,8 @@
       ],
       "rating": "3.6",
       "rating_count": "2.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 120,
@@ -3570,7 +3581,8 @@
       ],
       "rating": "4",
       "rating_count": "1.1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 121,
@@ -3603,7 +3615,8 @@
       ],
       "rating": "4.3",
       "rating_count": "8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 122,
@@ -3634,7 +3647,8 @@
       ],
       "rating": "4.1",
       "rating_count": "5.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 123,
@@ -3665,7 +3679,8 @@
       ],
       "rating": "4.3",
       "rating_count": "4.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 124,
@@ -3698,7 +3713,8 @@
       ],
       "rating": "4.4",
       "rating_count": "2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 125,
@@ -3728,7 +3744,8 @@
       ],
       "rating": "4.2",
       "rating_count": "3.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 126,
@@ -3758,7 +3775,8 @@
       ],
       "rating": "4.3",
       "rating_count": "2.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 127,
@@ -3791,7 +3809,8 @@
       ],
       "rating": "4.4",
       "rating_count": "12.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 128,
@@ -3821,7 +3840,8 @@
       ],
       "rating": "4.1",
       "rating_count": "4.1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 129,
@@ -3851,7 +3871,8 @@
       ],
       "rating": "3.9",
       "rating_count": "527",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 130,
@@ -3884,7 +3905,8 @@
       ],
       "rating": "4",
       "rating_count": "23.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 131,
@@ -3915,7 +3937,8 @@
       ],
       "rating": "4",
       "rating_count": "13.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 132,
@@ -3945,7 +3968,8 @@
       ],
       "rating": "4.3",
       "rating_count": "6.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 133,
@@ -3978,7 +4002,8 @@
       ],
       "rating": "3.9",
       "rating_count": "20.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 134,
@@ -4008,7 +4033,8 @@
       ],
       "rating": "4.3",
       "rating_count": "604",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 135,
@@ -4039,7 +4065,8 @@
       ],
       "rating": "4.4",
       "rating_count": "900",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 136,
@@ -4070,7 +4097,8 @@
       ],
       "rating": "4",
       "rating_count": "3.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 137,
@@ -4102,7 +4130,8 @@
       ],
       "rating": "4.2",
       "rating_count": "1.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 138,
@@ -4128,7 +4157,8 @@
       ],
       "rating": "4",
       "rating_count": "1.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Saree"
     },
     {
       "id": 139,
@@ -4159,7 +4189,8 @@
       ],
       "rating": "4.3",
       "rating_count": "8.2k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 140,
@@ -4192,7 +4223,8 @@
       ],
       "rating": "4.3",
       "rating_count": "1.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 141,
@@ -4221,7 +4253,8 @@
       ],
       "rating": "4.2",
       "rating_count": "761",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 142,
@@ -4252,7 +4285,8 @@
       ],
       "rating": "4.1",
       "rating_count": "810",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 143,
@@ -4282,7 +4316,8 @@
       ],
       "rating": "4.1",
       "rating_count": "2.5k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 144,
@@ -4311,7 +4346,8 @@
       ],
       "rating": "4.4",
       "rating_count": "453",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 145,
@@ -4342,7 +4378,8 @@
       ],
       "rating": "4.2",
       "rating_count": "6.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 146,
@@ -4372,7 +4409,8 @@
       ],
       "rating": "4.1",
       "rating_count": "2.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 147,
@@ -4402,7 +4440,8 @@
       ],
       "rating": "4",
       "rating_count": "194",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 148,
@@ -4432,7 +4471,8 @@
       ],
       "rating": "4.4",
       "rating_count": "544",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 149,
@@ -4463,7 +4503,8 @@
       ],
       "rating": "4.4",
       "rating_count": "17.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 150,
@@ -4493,7 +4534,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 151,
@@ -4523,7 +4565,8 @@
       ],
       "rating": "4.2",
       "rating_count": "10.7k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 152,
@@ -4556,7 +4599,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.5k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 153,
@@ -4587,7 +4631,8 @@
       ],
       "rating": "4.3",
       "rating_count": "120",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 154,
@@ -4618,7 +4663,8 @@
       ],
       "rating": "4.5",
       "rating_count": "1k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 155,
@@ -4644,7 +4690,8 @@
       ],
       "rating": null,
       "rating_count": null,
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Saree"
     },
     {
       "id": 156,
@@ -4674,7 +4721,8 @@
       ],
       "rating": "4.4",
       "rating_count": "3.9k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 157,
@@ -4704,7 +4752,8 @@
       ],
       "rating": "4.1",
       "rating_count": "3.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 158,
@@ -4734,7 +4783,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 164,
@@ -4765,7 +4815,8 @@
       ],
       "rating": "4.2",
       "rating_count": "2.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 165,
@@ -4797,7 +4848,8 @@
       ],
       "rating": "4.5",
       "rating_count": "244",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 166,
@@ -4829,7 +4881,8 @@
       ],
       "rating": "4.2",
       "rating_count": "767",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 167,
@@ -4862,7 +4915,8 @@
       ],
       "rating": "4",
       "rating_count": "13.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 168,
@@ -4892,7 +4946,8 @@
       ],
       "rating": "4.4",
       "rating_count": "672",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 169,
@@ -4923,7 +4978,8 @@
       ],
       "rating": "4.3",
       "rating_count": "650",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 170,
@@ -4955,7 +5011,8 @@
       ],
       "rating": "4.2",
       "rating_count": "7.4k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 171,
@@ -4987,7 +5044,8 @@
       ],
       "rating": "3.7",
       "rating_count": "539",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 172,
@@ -5021,7 +5079,8 @@
       ],
       "rating": "4.1",
       "rating_count": "515",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 173,
@@ -5053,7 +5112,8 @@
       ],
       "rating": "4.4",
       "rating_count": "454",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 174,
@@ -5084,7 +5144,8 @@
       ],
       "rating": "4.2",
       "rating_count": "1.8k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Kurta"
     },
     {
       "id": 175,
@@ -5115,7 +5176,8 @@
       ],
       "rating": "4.3",
       "rating_count": "407",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 176,
@@ -5149,7 +5211,8 @@
       ],
       "rating": "4.5",
       "rating_count": "1.6k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Trousers"
     },
     {
       "id": 177,
@@ -5180,7 +5243,8 @@
       ],
       "rating": "4.1",
       "rating_count": "3.3k",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "Jeans"
     },
     {
       "id": 178,
@@ -5211,7 +5275,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "21.4k"
+      "rating_count": "21.4k",
+      "myStyle": "Kurta"
     },
     {
       "id": 179,
@@ -5234,7 +5299,8 @@
       ],
       "rating": "4",
       "rating_count": "242",
-      "quantity": 1
+      "quantity": 1,
+      "myStyle": "any"
     },
     {
       "id": 180,
@@ -5257,7 +5323,8 @@
         "XXL"
       ],
       "rating": "4.5",
-      "rating_count": "4.5k"
+      "rating_count": "4.5k",
+      "myStyle": "Kurta"
     },
     {
       "id": 181,
@@ -5283,7 +5350,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "1.2k"
+      "rating_count": "1.2k",
+      "myStyle": "Kurta"
     },
     {
       "id": 182,
@@ -5307,7 +5375,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "236"
+      "rating_count": "236",
+      "myStyle": "Kurta"
     },
     {
       "id": 183,
@@ -5329,7 +5398,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "2.7k"
+      "rating_count": "2.7k",
+      "myStyle": "any"
     },
     {
       "id": 184,
@@ -5348,7 +5418,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "1.5k"
+      "rating_count": "1.5k",
+      "myStyle": "Saree"
     },
     {
       "id": 185,
@@ -5372,7 +5443,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "21k"
+      "rating_count": "21k",
+      "myStyle": "any"
     },
     {
       "id": 186,
@@ -5398,7 +5470,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "7.1k"
+      "rating_count": "7.1k",
+      "myStyle": "Kurta"
     },
     {
       "id": 187,
@@ -5424,7 +5497,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "1.5k"
+      "rating_count": "1.5k",
+      "myStyle": "Kurta"
     },
     {
       "id": 188,
@@ -5448,7 +5522,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "7.7k"
+      "rating_count": "7.7k",
+      "myStyle": "Trousers"
     },
     {
       "id": 189,
@@ -5474,7 +5549,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "1.6k"
+      "rating_count": "1.6k",
+      "myStyle": "Kurta"
     },
     {
       "id": 190,
@@ -5497,7 +5573,8 @@
       ],
       "rating": "3.7",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Kurta"
     },
     {
       "id": 191,
@@ -5521,7 +5598,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "5.4k"
+      "rating_count": "5.4k",
+      "myStyle": "Kurta"
     },
     {
       "id": 192,
@@ -5544,7 +5622,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "257"
+      "rating_count": "257",
+      "myStyle": "Kurta"
     },
     {
       "id": 193,
@@ -5570,7 +5649,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "3.1k"
+      "rating_count": "3.1k",
+      "myStyle": "Jeans"
     },
     {
       "id": 194,
@@ -5594,7 +5674,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "857"
+      "rating_count": "857",
+      "myStyle": "Kurta"
     },
     {
       "id": 195,
@@ -5618,7 +5699,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "9.8k"
+      "rating_count": "9.8k",
+      "myStyle": "Kurta"
     },
     {
       "id": 196,
@@ -5640,7 +5722,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "122"
+      "rating_count": "122",
+      "myStyle": "any"
     },
     {
       "id": 197,
@@ -5664,7 +5747,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "7.8k"
+      "rating_count": "7.8k",
+      "myStyle": "Kurta"
     },
     {
       "id": 198,
@@ -5687,7 +5771,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "4k"
+      "rating_count": "4k",
+      "myStyle": "any"
     },
     {
       "id": 199,
@@ -5712,7 +5797,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Kurta"
     },
     {
       "id": 200,
@@ -5736,7 +5822,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "6.4k"
+      "rating_count": "6.4k",
+      "myStyle": "Jeans"
     },
     {
       "id": 201,
@@ -5759,7 +5846,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "1.1k"
+      "rating_count": "1.1k",
+      "myStyle": "Kurta"
     },
     {
       "id": 202,
@@ -5785,7 +5873,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "17.1k"
+      "rating_count": "17.1k",
+      "myStyle": "Kurta"
     },
     {
       "id": 203,
@@ -5808,7 +5897,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "2.9k"
+      "rating_count": "2.9k",
+      "myStyle": "Kurta"
     },
     {
       "id": 204,
@@ -5832,7 +5922,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "384"
+      "rating_count": "384",
+      "myStyle": "Kurta"
     },
     {
       "id": 205,
@@ -5858,7 +5949,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "2.9k"
+      "rating_count": "2.9k",
+      "myStyle": "Kurta"
     },
     {
       "id": 206,
@@ -5881,7 +5973,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "1.5k"
+      "rating_count": "1.5k",
+      "myStyle": "Kurta"
     },
     {
       "id": 207,
@@ -5905,7 +5998,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "1.3k"
+      "rating_count": "1.3k",
+      "myStyle": "any"
     },
     {
       "id": 208,
@@ -5928,7 +6022,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "6.5k"
+      "rating_count": "6.5k",
+      "myStyle": "Jeans"
     },
     {
       "id": 209,
@@ -5951,7 +6046,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Trousers"
     },
     {
       "id": 210,
@@ -5974,7 +6070,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 211,
@@ -5993,7 +6090,8 @@
       ],
       "rating": "3.6",
       "quantity": 1,
-      "rating_count": "228"
+      "rating_count": "228",
+      "myStyle": "Saree"
     },
     {
       "id": 212,
@@ -6017,7 +6115,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "1k"
+      "rating_count": "1k",
+      "myStyle": "Jeans"
     },
     {
       "id": 213,
@@ -6039,7 +6138,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "365"
+      "rating_count": "365",
+      "myStyle": "any"
     }
   ],
   "kids": [
@@ -6073,7 +6173,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "5"
+      "rating_count": "5",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 220,
@@ -6105,7 +6206,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "1.5k"
+      "rating_count": "1.5k",
+      "myStyle": "T-shirt"
     },
     {
       "id": 221,
@@ -6139,7 +6241,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "1.1k"
+      "rating_count": "1.1k",
+      "myStyle": "any"
     },
     {
       "id": 222,
@@ -6182,7 +6285,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "31"
+      "rating_count": "31",
+      "myStyle": "any"
     },
     {
       "id": 223,
@@ -6210,7 +6314,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "165"
+      "rating_count": "165",
+      "myStyle": "Track Pants"
     },
     {
       "id": 224,
@@ -6240,7 +6345,8 @@
       ],
       "rating": "3.5",
       "quantity": 1,
-      "rating_count": "41"
+      "rating_count": "41",
+      "myStyle": "any"
     },
     {
       "id": 225,
@@ -6269,7 +6375,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "27"
+      "rating_count": "27",
+      "myStyle": "T-shirt"
     },
     {
       "id": 226,
@@ -6301,7 +6408,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "2.3k"
+      "rating_count": "2.3k",
+      "myStyle": "any"
     },
     {
       "id": 227,
@@ -6334,7 +6442,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "286"
+      "rating_count": "286",
+      "myStyle": "any"
     },
     {
       "id": 228,
@@ -6364,7 +6473,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "683"
+      "rating_count": "683",
+      "myStyle": "Blazer"
     },
     {
       "id": 229,
@@ -6402,7 +6512,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "204"
+      "rating_count": "204",
+      "myStyle": "any"
     },
     {
       "id": 230,
@@ -6433,7 +6544,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "76"
+      "rating_count": "76",
+      "myStyle": "T-shirt"
     },
     {
       "id": 231,
@@ -6461,7 +6573,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "93"
+      "rating_count": "93",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 232,
@@ -6493,7 +6606,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "475"
+      "rating_count": "475",
+      "myStyle": "T-shirt"
     },
     {
       "id": 233,
@@ -6523,7 +6637,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "36"
+      "rating_count": "36",
+      "myStyle": "any"
     },
     {
       "id": 234,
@@ -6552,7 +6667,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "234"
+      "rating_count": "234",
+      "myStyle": "any"
     },
     {
       "id": 235,
@@ -6586,7 +6702,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "1.1k"
+      "rating_count": "1.1k",
+      "myStyle": "any"
     },
     {
       "id": 236,
@@ -6618,7 +6735,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "253"
+      "rating_count": "253",
+      "myStyle": "T-shirt"
     },
     {
       "id": 237,
@@ -6647,7 +6765,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "605"
+      "rating_count": "605",
+      "myStyle": "T-shirt"
     },
     {
       "id": 238,
@@ -6682,7 +6801,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "2.9k"
+      "rating_count": "2.9k",
+      "myStyle": "any"
     },
     {
       "category": "Child",
@@ -6716,7 +6836,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "301"
+      "rating_count": "301",
+      "myStyle": "any"
     },
     {
       "id": 239,
@@ -6748,7 +6869,8 @@
       ],
       "rating": "3.3",
       "quantity": 1,
-      "rating_count": "8"
+      "rating_count": "8",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 240,
@@ -6837,7 +6959,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "1.7k"
+      "rating_count": "1.7k",
+      "myStyle": "T-shirt"
     },
     {
       "id": 241,
@@ -6868,7 +6991,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "143"
+      "rating_count": "143",
+      "myStyle": "any"
     },
     {
       "id": 242,
@@ -6898,7 +7022,8 @@
       ],
       "rating": null,
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Track Pants"
     },
     {
       "id": 243,
@@ -6928,7 +7053,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "62"
+      "rating_count": "62",
+      "myStyle": "any"
     },
     {
       "id": 244,
@@ -6958,7 +7084,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "309"
+      "rating_count": "309",
+      "myStyle": "T-shirt"
     },
     {
       "category": "Child",
@@ -6992,7 +7119,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "181"
+      "rating_count": "181",
+      "myStyle": "any"
     },
     {
       "id": 245,
@@ -7021,7 +7149,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "278"
+      "rating_count": "278",
+      "myStyle": "any"
     },
     {
       "id": 246,
@@ -7052,7 +7181,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "44"
+      "rating_count": "44",
+      "myStyle": "T-shirt"
     },
     {
       "id": 247,
@@ -7090,7 +7220,8 @@
       ],
       "rating": "4.7",
       "quantity": 1,
-      "rating_count": "17"
+      "rating_count": "17",
+      "myStyle": "any"
     },
     {
       "id": 248,
@@ -7121,7 +7252,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "116"
+      "rating_count": "116",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 249,
@@ -7149,7 +7281,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 250,
@@ -7181,7 +7314,8 @@
       ],
       "rating": "3.7",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 251,
@@ -7209,7 +7343,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "99"
+      "rating_count": "99",
+      "myStyle": "Track Pants"
     },
     {
       "id": 252,
@@ -7231,7 +7366,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "17"
+      "rating_count": "17",
+      "myStyle": "T-shirt"
     },
     {
       "id": 253,
@@ -7254,7 +7390,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "193"
+      "rating_count": "193",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 254,
@@ -7278,7 +7415,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "26"
+      "rating_count": "26",
+      "myStyle": "any"
     },
     {
       "id": 255,
@@ -7307,7 +7445,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "91"
+      "rating_count": "91",
+      "myStyle": "any"
     },
     {
       "id": 256,
@@ -7330,7 +7469,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "49"
+      "rating_count": "49",
+      "myStyle": "any"
     },
     {
       "id": 257,
@@ -7360,7 +7500,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "151"
+      "rating_count": "151",
+      "myStyle": "any"
     },
     {
       "id": 258,
@@ -7384,7 +7525,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "9"
+      "rating_count": "9",
+      "myStyle": "any"
     },
     {
       "id": 259,
@@ -7409,7 +7551,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "18"
+      "rating_count": "18",
+      "myStyle": "any"
     },
     {
       "id": 260,
@@ -7434,7 +7577,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "627"
+      "rating_count": "627",
+      "myStyle": "T-shirt"
     },
     {
       "id": 261,
@@ -7458,7 +7602,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "2.6k"
+      "rating_count": "2.6k",
+      "myStyle": "T-shirt"
     },
     {
       "id": 262,
@@ -7488,7 +7633,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "354"
+      "rating_count": "354",
+      "myStyle": "any"
     },
     {
       "id": 263,
@@ -7515,7 +7661,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 264,
@@ -7538,7 +7685,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "146"
+      "rating_count": "146",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 265,
@@ -7560,7 +7708,8 @@
       ],
       "rating": "4.8",
       "quantity": 1,
-      "rating_count": "32"
+      "rating_count": "32",
+      "myStyle": "T-shirt"
     },
     {
       "id": 266,
@@ -7584,7 +7733,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "64"
+      "rating_count": "64",
+      "myStyle": "T-shirt"
     },
     {
       "id": 272,
@@ -7616,7 +7766,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "64"
+      "rating_count": "64",
+      "myStyle": "T-shirt"
     },
     {
       "id": 273,
@@ -7660,7 +7811,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": "20"
+      "rating_count": "20",
+      "myStyle": "any"
     },
     {
       "id": 274,
@@ -7696,7 +7848,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "44"
+      "rating_count": "44",
+      "myStyle": "any"
     },
     {
       "id": 275,
@@ -7731,7 +7884,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "154"
+      "rating_count": "154",
+      "myStyle": "any"
     },
     {
       "id": 276,
@@ -7761,7 +7915,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "25"
+      "rating_count": "25",
+      "myStyle": "any"
     },
     {
       "id": 277,
@@ -7790,7 +7945,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "256"
+      "rating_count": "256",
+      "myStyle": "any"
     },
     {
       "id": 278,
@@ -7835,7 +7991,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": "1.3k"
+      "rating_count": "1.3k",
+      "myStyle": "T-shirt"
     },
     {
       "id": 279,
@@ -7866,7 +8023,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "169"
+      "rating_count": "169",
+      "myStyle": "any"
     },
     {
       "id": 280,
@@ -7896,7 +8054,8 @@
       ],
       "rating": "3.7",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 281,
@@ -7932,7 +8091,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "T-shirt"
     },
     {
       "id": 282,
@@ -7961,7 +8121,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "9"
+      "rating_count": "9",
+      "myStyle": "Track Pants"
     },
     {
       "id": 283,
@@ -7992,7 +8153,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "44"
+      "rating_count": "44",
+      "myStyle": "T-shirt"
     },
     {
       "id": 284,
@@ -8022,7 +8184,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "11"
+      "rating_count": "11",
+      "myStyle": "any"
     },
     {
       "id": 285,
@@ -8054,7 +8217,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "7"
+      "rating_count": "7",
+      "myStyle": "any"
     },
     {
       "id": 286,
@@ -8088,7 +8252,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": "8"
+      "rating_count": "8",
+      "myStyle": "any"
     },
     {
       "id": 287,
@@ -8112,7 +8277,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "78"
+      "rating_count": "78",
+      "myStyle": "any"
     },
     {
       "id": 288,
@@ -8135,7 +8301,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "367"
+      "rating_count": "367",
+      "myStyle": "T-shirt"
     },
     {
       "id": 289,
@@ -8165,7 +8332,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "820"
+      "rating_count": "820",
+      "myStyle": "any"
     },
     {
       "id": 290,
@@ -8189,7 +8357,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 291,
@@ -8211,7 +8380,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 292,
@@ -8240,7 +8410,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "210"
+      "rating_count": "210",
+      "myStyle": "any"
     },
     {
       "id": 293,
@@ -8264,7 +8435,8 @@
       ],
       "rating": "4",
       "quantity": 1,
-      "rating_count": "670"
+      "rating_count": "670",
+      "myStyle": "any"
     },
     {
       "id": 294,
@@ -8287,7 +8459,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "361"
+      "rating_count": "361",
+      "myStyle": "any"
     },
     {
       "id": 295,
@@ -8314,7 +8487,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "154"
+      "rating_count": "154",
+      "myStyle": "any"
     },
     {
       "id": 296,
@@ -8337,7 +8511,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 297,
@@ -8362,7 +8537,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 298,
@@ -8390,7 +8566,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "26"
+      "rating_count": "26",
+      "myStyle": "any"
     },
     {
       "id": 299,
@@ -8415,7 +8592,8 @@
       ],
       "rating": "4.7",
       "quantity": 1,
-      "rating_count": "9"
+      "rating_count": "9",
+      "myStyle": "T-shirt"
     },
     {
       "id": 300,
@@ -8436,7 +8614,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Track Pants"
     },
     {
       "id": 301,
@@ -8465,7 +8644,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "140"
+      "rating_count": "140",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 302,
@@ -8490,7 +8670,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 303,
@@ -8513,7 +8694,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "718"
+      "rating_count": "718",
+      "myStyle": "any"
     },
     {
       "id": 304,
@@ -8535,7 +8717,8 @@
       ],
       "rating": "4.8",
       "quantity": 1,
-      "rating_count": "5"
+      "rating_count": "5",
+      "myStyle": "any"
     },
     {
       "id": 305,
@@ -8565,7 +8748,8 @@
       ],
       "rating": "4.3",
       "quantity": 1,
-      "rating_count": "111"
+      "rating_count": "111",
+      "myStyle": "any"
     },
     {
       "id": 306,
@@ -8593,7 +8777,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "190"
+      "rating_count": "190",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 307,
@@ -8615,7 +8800,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "45"
+      "rating_count": "45",
+      "myStyle": "any"
     },
     {
       "id": 308,
@@ -8643,7 +8829,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "39"
+      "rating_count": "39",
+      "myStyle": "Track Pants"
     },
     {
       "id": 309,
@@ -8670,7 +8857,8 @@
       ],
       "rating": "3.9",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 310,
@@ -8694,7 +8882,8 @@
       ],
       "rating": "4.1",
       "quantity": 1,
-      "rating_count": "8"
+      "rating_count": "8",
+      "myStyle": "T-shirt"
     },
     {
       "id": 311,
@@ -8717,7 +8906,8 @@
       ],
       "rating": "4.5",
       "quantity": 1,
-      "rating_count": "40"
+      "rating_count": "40",
+      "myStyle": "any"
     },
     {
       "id": 312,
@@ -8742,7 +8932,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "79"
+      "rating_count": "79",
+      "myStyle": "any"
     },
     {
       "id": 313,
@@ -8770,7 +8961,8 @@
       ],
       "rating": "3.6",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 314,
@@ -8792,7 +8984,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "12"
+      "rating_count": "12",
+      "myStyle": "any"
     },
     {
       "id": 315,
@@ -8817,7 +9010,8 @@
       ],
       "rating": "4.2",
       "quantity": 1,
-      "rating_count": "9"
+      "rating_count": "9",
+      "myStyle": "Sweatshirt"
     },
     {
       "id": 316,
@@ -8845,7 +9039,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "59"
+      "rating_count": "59",
+      "myStyle": "any"
     },
     {
       "id": 317,
@@ -8868,7 +9063,8 @@
       ],
       "rating": "4.7",
       "quantity": 1,
-      "rating_count": "178"
+      "rating_count": "178",
+      "myStyle": "any"
     },
     {
       "id": 318,
@@ -8892,7 +9088,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "734"
+      "rating_count": "734",
+      "myStyle": "T-shirt"
     },
     {
       "id": 319,
@@ -8911,7 +9108,8 @@
       ],
       "rating": "3.8",
       "quantity": 1,
-      "rating_count": null
+      "rating_count": null,
+      "myStyle": "any"
     },
     {
       "id": 320,
@@ -8936,7 +9134,8 @@
       ],
       "rating": "4.6",
       "quantity": 1,
-      "rating_count": "21"
+      "rating_count": "21",
+      "myStyle": "any"
     },
     {
       "id": 321,
@@ -8958,7 +9157,8 @@
       ],
       "rating": "4.4",
       "quantity": 1,
-      "rating_count": "67"
+      "rating_count": "67",
+      "myStyle": "any"
     }
   ],
   "cart": [],
