@@ -3516,7 +3516,7 @@
         "XL",
         "XXL"
       ],
-      "rating": null,
+      "rating": "1.7",
       "rating_count": null,
       "quantity": 1,
       "myStyle": "Kurta"
@@ -4669,7 +4669,7 @@
     {
       "id": 155,
       "category": "Womens",
-      "title": "MOKSHA DESIGNS",
+      "title": "KALINI",
       "subtitle": "Kanjeevaram Pure Silk Saree",
       "discounted_price": 7890,
       "price": 7890,
@@ -4688,7 +4688,7 @@
       "size": [
         "Onesize"
       ],
-      "rating": null,
+      "rating": "4.2",
       "rating_count": null,
       "quantity": 1,
       "myStyle": "Saree"
@@ -4727,7 +4727,7 @@
     {
       "id": 157,
       "category": "Womens",
-      "title": "DOLCE CRUDO",
+      "title": "Anouk",
       "subtitle": "Women Skinny Fit Jeans",
       "discounted_price": "959",
       "price": 959,
@@ -4952,7 +4952,7 @@
     {
       "id": 169,
       "category": "Womens",
-      "title": "ADDYVERO",
+      "title": "Khushal K",
       "subtitle": "Women High-Rise Trousers",
       "discounted_price": "543",
       "price": 543,
@@ -5182,7 +5182,7 @@
     {
       "id": 176,
       "category": "Womens",
-      "title": "H&M",
+      "title": "FASHOR",
       "subtitle": "Cigarette trousers",
       "discounted_price": "1499",
       "price": 1499,
@@ -5217,7 +5217,7 @@
     {
       "id": 177,
       "category": "Womens",
-      "title": "Kotty",
+      "title": "FASHOR",
       "subtitle": "Women Flared Jeans",
       "discounted_price": "639",
       "price": 639,
@@ -5404,7 +5404,7 @@
     {
       "id": 184,
       "category": "Womens",
-      "title": "Saree mall",
+      "title": "FASHOR",
       "subtitle": "Floral Saree",
       "discounted_price": "899",
       "price": 899,
@@ -5503,7 +5503,7 @@
     {
       "id": 188,
       "category": "Womens",
-      "title": "SASSAFRAS",
+      "title": "FASHOR",
       "subtitle": "Women Cotton Straight Trousers",
       "discounted_price": "696",
       "price": 696,
@@ -5628,7 +5628,7 @@
     {
       "id": 193,
       "category": "Womens",
-      "title": "HERE&NOW",
+      "title": "Khushal K",
       "subtitle": "Women Skinny Fit Jeans",
       "discounted_price": "699",
       "price": 699,
@@ -5803,7 +5803,7 @@
     {
       "id": 200,
       "category": "Womens",
-      "title": "SASSAFRAS",
+      "title": "KALINI",
       "subtitle": "Women Jogger Jeans",
       "discounted_price": "739",
       "price": 739,
@@ -6004,7 +6004,7 @@
     {
       "id": 208,
       "category": "Womens",
-      "title": "Kotty",
+      "title": "Anouk",
       "subtitle": "Women Flared Jeans",
       "discounted_price": "639",
       "price": 639,
@@ -6076,7 +6076,7 @@
     {
       "id": 211,
       "category": "Womens",
-      "title": "Sangria",
+      "title": "Khushal K",
       "subtitle": "Colourblocked Pure Chiffon Saree",
       "discounted_price": "578",
       "price": 578,
@@ -6096,7 +6096,7 @@
     {
       "id": 212,
       "category": "Womens",
-      "title": "Mast & Harbour",
+      "title": "Khushal K",
       "subtitle": "Women Boyfriend Fit Jeans",
       "discounted_price": "1079",
       "price": 1079,
@@ -6739,7 +6739,7 @@
         "12-18M",
         "18-24M"
       ],
-      "rating": null,
+      "rating": "2.4",
       "quantity": 1,
       "rating_count": null,
       "myStyle": "Track Pants"
