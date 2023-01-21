@@ -2483,7 +2483,7 @@
         "XL",
         "XXL"
       ],
-      "rating": null,
+      "rating": "3.8",
       "rating_count": null,
       "quantity": 1,
       "myStyle": "Kurta"
@@ -3322,7 +3322,7 @@
       "size": [
         "Onesize"
       ],
-      "rating": null,
+      "rating": "4.4",
       "rating_count": null,
       "quantity": 1,
       "myStyle": "Saree"
@@ -5091,7 +5091,7 @@
         "12-18M",
         "18-24M"
       ],
-      "rating": null,
+      "rating": "2.1",
       "quantity": 1,
       "rating_count": null,
       "myStyle": "Track Pants"
