@@ -5213,7 +5213,56 @@
       "myStyle": "T-shirt"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "id": 110,
+      "category": "Womens",
+      "title": "Khushal K",
+      "subtitle": "Women Kurta Set With Dupatta",
+      "discounted_price": "1529",
+      "price": 1529,
+      "strike_price": "5099",
+      "discount": "(70% OFF)",
+      "images": "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/17048614/2022/2/4/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg",
+      "size": "M",
+      "rating": "4.4",
+      "rating_count": "5.9k",
+      "quantity": 1,
+      "myStyle": "Kurta"
+    },
+    {
+      "id": 5,
+      "category": "Mens",
+      "title": "LOCOMOTIVE",
+      "subtitle": "Men Slim Fit Casual Shirt",
+      "discounted_price": "577",
+      "price": 577,
+      "strike_price": "1649",
+      "discount": "(65% OFF)",
+      "images": "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/10341699/2022/8/25/c23fd879-a9b3-4515-a181-558523a71b9b1661423122029-LOCOMOTIVE-Men-Black--Grey-Slim-Fit-Checked-Casual-Shirt-342-1.jpg",
+      "size": "XXL",
+      "rating": "4.1",
+      "rating_count": "5.7k",
+      "quantity": 1,
+      "myStyle": "Casual Shirt"
+    },
+    {
+      "id": 229,
+      "category": "Child",
+      "title": "MANZON",
+      "subtitle": "Kids Pack Of 3 Thermal Sets",
+      "discounted_price": "799",
+      "price": 799,
+      "strike_price": "1999",
+      "discount": "(60% OFF)",
+      "images": "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/16003708/2021/11/29/c4c2b2f4-6e55-4012-b315-434a9e8190ee1638189390670-MANZON-Unisex-Kids-Thermal-Set-8121638189389733-1.jpg",
+      "size": "XXL",
+      "rating": "3.9",
+      "quantity": 1,
+      "rating_count": "204",
+      "myStyle": "any"
+    }
+  ],
   "wishlist": [],
   "users": [],
   "shopLater":[],
